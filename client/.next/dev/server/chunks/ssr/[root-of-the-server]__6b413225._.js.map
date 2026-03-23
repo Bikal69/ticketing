@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///home/rhino69/ticketing/client/pages/banana.js"],"sourcesContent":["export default()=>{\r\n    return <h1>Banana Page</h1>\r\n};"],"names":[],"mappings":";;;;;;uCAAc;IACV,qBAAO,qKAAC;kBAAG;;;;;;AACf"}}]
+}
