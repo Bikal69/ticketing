@@ -1,10 +1,8 @@
 import mongoose from 'mongoose';
 import {app} from './app';
 
-let a:geda={
-    size:10
-}
 const start=async()=>{
+    console.log('Stating up...')
     if(!process.env.JWT_KEY){
         throw new Error('JWT_KEY must be defined');
     }
